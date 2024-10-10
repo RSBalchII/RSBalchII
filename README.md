@@ -14,16 +14,16 @@ Full Stack JavaScript Developer & Data Scientist
 - Graduate of Deep Dive Coding Bootcamp
 
 📊 Projects:
-- PRRR Inventory Application (Next.js, Adonis.js)
-- Martini App & CRM (Next.js, TypeScript, Supabase)
+- PRRC Inventory Application (Next.js, Adonis.js)
+- Martini App & custom CRM (Next.js, TypeScript, Supabase)
 - Seiscomp Seismic Database Project (Python/Bash scripting)
 
 🎮 Interests: Game modding, data manipulation, web development
 
 📫 How to reach me: robertbalchii@gmail.com
 
-👉 Check out my portfolio: [Your Portfolio URL]
 
 🔗 Connect with me:
-- GitHub: RSBII
-- LinkedIn: Robert Balch II
+  robertbalchii@gmail.com
+- LinkedIn: [Robert Balch II](https://www.linkedin.com/in/robert-balch-ii/)
+
