@@ -24,6 +24,5 @@ Full Stack JavaScript Developer & Data Scientist
 
 
 🔗 Connect with me:
-  robertbalchii@gmail.com
 - LinkedIn: [Robert Balch II](https://www.linkedin.com/in/robert-balch-ii/)
 
