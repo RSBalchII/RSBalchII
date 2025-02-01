@@ -6,7 +6,7 @@ Full Stack JavaScript Developer & Data Analyst
 
 🔧 Technologies: JavaScript, Python, React.js, Node.js, PostgreSQL, TypeScript, Next.js, Adonis.js, Docker
 
-🌱 Currently training in Python and Data Science @cnmIngenuity
+🌱 Currently enrolled in IBM Data Analytics Certificate Program
 
 💼 Experience:
 - Full Stack Developer @ PRRC (NMT)
