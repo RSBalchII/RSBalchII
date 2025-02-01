@@ -1,6 +1,6 @@
 # Robert Balch II
 
-Full Stack JavaScript Developer & Data Scientist
+Full Stack JavaScript Developer & Data Analyst
 
 👋 Hi, I'm Robert Balch II (@RSBalchII)
 
