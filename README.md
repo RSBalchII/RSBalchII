@@ -11,7 +11,7 @@ Full Stack JavaScript Developer & Data Analyst
 💼 Experience:
 - Full Stack Developer @ PRRC (NMT)
 - Web Developer @ Dry Ice LLC
-- Graduate of Deep Dive Coding Bootcamp
+- Graduate of Deep Dive Coding FullStack & Deep Dive Data Science @ CNM Ingenuity 
 
 📊 Projects:
 - PRRC Inventory Application (Next.js, Adonis.js)
