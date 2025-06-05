@@ -45,7 +45,8 @@
 ## 📚 Education & Certifications
 - **Deep Dive Data Science** | CNM Ingenuity (2024)  
 - **Deep Dive Full Stack Development** | CNM Ingenuity (2023)  
-- **Comptia A+ Certification** | CNM Ingenuity (In Progress - Hardware Module)  
+- **Comptia A+ Certification** | CNM Ingenuity (In Progress - Hardware
+- Module)  
 - **BFA Contemporary Music** | Santa Fe University of Art & Design (2016)
 
 ## 💡 Currently Exploring
@@ -58,6 +59,3 @@
 
 📫 **Let's connect:** [Email](mailto:robertbalchii@gmail.com) | [LinkedIn](https://www.linkedin.com/in/robert-balch-ii/) | [Portfolio](your-portfolio-link)
 ```
-
-
-The design is mobile-responsive and showcases your technical breadth while emphasizing measurable achievements.
