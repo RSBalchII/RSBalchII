@@ -8,7 +8,7 @@
 [![Certifications](https://img.shields.io/badge/Certifications-Comptia_A+_in_progress-orange)]()
 [![AI_Level](https://img.shields.io/badge/AI_Competency-L4%2F5_Advanced_Prompting-blueviolet)]()
 
-👋 Blending software development, infrastructure expertise, and **AI engineering** with advanced prompt architecture skills
+👋 Blending software development, infrastructure expertise, and **AI engineering** with advanced llm prompting methods
 
 ## 🔧 Technical Expertise
 
