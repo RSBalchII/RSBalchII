@@ -1,6 +1,6 @@
 # Robert Balch II
 ### Full Stack Developer | Data Analyst | IT Infrastructure Specialist  
-`Transitioning to infrastructure roles with CompTIA A+ certification`
+`Specialized in Fullstack Web Development`
 
 [![Email](https://img.shields.io/badge/Email-robertbalchii%40gmail.com-blue?style=flat&logo=gmail)](mailto:robertbalchii@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Robert_Balch_II-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/robert-balch-ii/)
