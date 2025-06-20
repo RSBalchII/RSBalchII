@@ -50,16 +50,15 @@
 
 ### [Seismic Data Pipeline](https://github.com/DS-15-Project-1/CSP-Data-Container)
 » Automated miniseed-to-Parquet conversion (Python/Dask)  
-» Processed 10TB+ Permian Basin sensor data  
-» Integrated LLM-powered metadata extraction  
-» Enabled CNN modeling for seismic prediction
+» Processed 10TB+ Permian Basin sensor data   
+» Worked towards CNN modeling for seismic audio statistical predictions
 
 ### [Options Counseling Services](https://www.optionscounselingservices.org/)
-» Frontend application with Remix for developer experience  
+» Frontend application with Next.js for developer experience  
 » Content management system for text updates  
 » Client-focused UI/UX implementation
 
-### [SpaceValley AI Chatbot](https://github.com/your-repo-link)
+### SpaceValley AI Chatbot
 » Integrated LIDA/OpenAI for real-time data visualization  
 » React components with Webpack/TailwindCSS  
 » MongoDB query optimization for responses  
@@ -73,10 +72,9 @@
 
 ## 💡 Currently Exploring
 - Completing CompTIA A+ hardware certification
-- Developing AI-assisted infrastructure documentation
 - Contract client website feature development
-- RF principles for wireless systems
-- Kubernetes cluster optimization
+- Solo Microservice application development
+- Local hosting MCP servers for llm integration with IDE
 
 ---
 
