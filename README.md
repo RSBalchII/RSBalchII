@@ -18,7 +18,7 @@ A mission-driven developer and systems thinker specializing in architecting dece
 
 ### 📫 How to Reach Me:
 
--   **LinkedIn:** [www.linkedin.com/in/robert-balch-ii]
+-   **LinkedIn:** www.linkedin.com/in/robert-balch-ii
 -   **Email:** robertbalchii@gmail.com
 
 ---
