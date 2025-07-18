@@ -12,7 +12,7 @@ A mission-driven developer and systems thinker specializing in architecting dece
 
 ### 💻 My Tech Stack:
 
--   **AI/ML:** Python, LangChain, CrewAI, ChromaDB, Ollama, OpenRouter
+-   **AI/ML:** Python, LangChain, ChromaDB, Ollama, OpenRouter, Pandas
 -   **Full-Stack:** JavaScript, React, Next.js, Node.js, Python, Flask, PostgreSQL
 -   **DevOps:** Docker, Docker Compose, Kubernetes, Git, Linux
 
