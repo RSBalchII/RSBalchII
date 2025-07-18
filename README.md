@@ -8,7 +8,7 @@ A mission-driven developer and systems thinker specializing in architecting dece
 
 -   **AI Context Injection Extension:** A local-first, privacy-focused browser extension using a vector database to provide persistent, multi-source memory for any LLM.
 -   **Agentic Terminal Workflow:** A custom `tmuxai` configuration that orchestrates a team of specialized AI agents for rapid, efficient software development and testing.
--   **The Autonomous Refactor Agent (Capstone):** An AI agent designed to autonomously analyze and containerize legacy GitHub repositories.
+-   **The Autonomous Refactor Agent (Capstone):** An AI agent designed to autonomously analyze, update/refactor, and containerize legacy GitHub repositories.
 
 ### 💻 My Tech Stack:
 
