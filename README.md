@@ -1,4 +1,4 @@
-# Robert S. Balch II | AI Systems Architect & Synthesizer
+# Robert S. Balch II | FullStack Developer
 
 A mission-driven developer and systems thinker specializing in architecting decentralized, context-aware AI partnerships. I build tools to solve complex data and memory problems, transforming chaotic information into actionable intelligence.
 
