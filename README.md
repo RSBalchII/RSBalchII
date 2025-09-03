@@ -1,19 +1,19 @@
-# Robert S. Balch II | FullStack Developer
+# Robert S. Balch II | FullStack & AI Systems Engineer
 
-A mission-driven developer and systems thinker specializing in architecting decentralized, context-aware AI partnerships. I build tools to solve complex data and memory problems, transforming chaotic information into actionable intelligence.
+Certified Data Scientist and Full-Stack Engineer specializing in the architecture and deployment of autonomous systems and AI-powered applications. Expert in translating complex business requirements into scalable, end-to-end solutions using React, Next.js, Python, and Node.js. Proven ability to drive projects from concept to completion in high-ownership environments, with advanced experience in orchestrating LLMs using LangChain, LangGraph, and Elysia for novel agentic solutions.
 
 ---
 
 ### 🔭 I'm Currently Building:
 
--   **AI Context Injection Extension:** A local-first, privacy-focused browser extension using a vector database to provide persistent, multi-source memory for any LLM.
--   **Agentic Terminal Workflow:** A custom `tmuxai` configuration that orchestrates a team of specialized AI agents for rapid, efficient software development and testing.
--   **The Autonomous Refactor Agent (Capstone):** An AI agent designed to autonomously analyze, update/refactor, and containerize legacy GitHub repositories.
+-   **ECE (Emergent Cognition Engine):** Architecting a novel plan-and-execute AI system that integrates multiple LLMs to reduce context rot and optimize performance through a persistent, intelligent memory management strategy.
+-   **Agentic Terminal Workflow:** Building a custom `tmuxai` configuration that orchestrates a team of specialized AI agents for rapid, efficient software development, testing, and workflow automation.
+-   **The Autonomous Refactor Agent (Capstone):** Deploying an AI agent built on the ECE architecture, designed to autonomously analyze, refactor, and containerize legacy GitHub repositories to modern standards.
 
 ### 💻 My Tech Stack:
 
--   **AI/ML:** Python, LangChain, ChromaDB, Ollama, OpenRouter, Pandas
--   **Full-Stack:** JavaScript, React, Next.js, Node.js, Python, Flask, PostgreSQL
+-   **AI/ML:** Python, LangChain, LangGraph, ChromaDB, Ollama, OpenRouter, Pandas
+-   **Full-Stack:** JavaScript, React, Next.js, Node.js, Python, Flask, Elysia.js, PostgreSQL
 -   **DevOps:** Docker, Docker Compose, Kubernetes, Git, Linux
 
 ### 📫 How to Reach Me:
