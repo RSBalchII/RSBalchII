@@ -6,8 +6,8 @@ Certified Data Scientist and Full-Stack Engineer specializing in the architectur
 
 ### 🔭 I'm Currently Building:
 
--   **ECE (Emergent Cognition Engine):** Architecting a novel plan-and-execute AI system that integrates multiple LLMs to reduce context rot and optimize performance through a persistent, intelligent memory management strategy.
--   **Agentic Terminal Workflow:** Building a custom `tmuxai` configuration that orchestrates a team of specialized AI agents for rapid, efficient software development, testing, and workflow automation.
+-   **ECE (External Context Engine):** Architecting a novel plan-and-execute AI system that integrates multiple LLMs to reduce context rot and optimize performance through a persistent, intelligent memory management strategy.
+-   **Agentic Terminal Workflow:** Building a custom `terminal-cli agent` configuration that orchestrates a team of specialized AI agents for rapid, efficient software development, testing, and workflow automation.
 -   **The Autonomous Refactor Agent (Capstone):** Deploying an AI agent built on the ECE architecture, designed to autonomously analyze, refactor, and containerize legacy GitHub repositories to modern standards.
 
 ### 💻 My Tech Stack:
